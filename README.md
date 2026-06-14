@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-active-green)
+![Tor Relays](https://img.shields.io/badge/tor-relays-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
 # Network Privacy Institute
 
 Network Privacy Institute (NPI) is an independent initiative dedicated to supporting privacy-preserving internet infrastructure, digital rights, and online anonymity.
